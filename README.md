@@ -1,2 +1,2 @@
 # ParallelSymbolicRegressionNetwork
-Parallel Symbolic Regression Network
+Parallel Symbolic Regression Network (coming soon)
