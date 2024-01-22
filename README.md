@@ -1,2 +1,2 @@
-# ParallelSymbolicRegressionNetwork
-Parallel Symbolic Regression Network (coming soon)
+# PSRNetwork
+PSR Network (coming soon)
